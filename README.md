@@ -1,9 +1,9 @@
 <h3> 🍕 &nbsp;ToddyDeveloper: </h3>
 
+👶 16 anos
+☕ Desenvolvedor Java
 
-- 👶 16 years
-- 🍝 Favorite Food: Seasoned Noodles
-- ☕ Java Developer
+A minha paixão pela programação cresce a cada dia.
 
 # Skills
 
