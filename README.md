@@ -2,6 +2,7 @@
 
 👶 16 anos <br>
 ☕ Desenvolvedor Java
+📃 Learning PHP
 
 A minha paixão pela programação cresce a cada dia.
 
