@@ -1,7 +1,7 @@
 # ☕ &nbsp;ToddyDeveloper
 
 👶 16 anos <br>
-☕ Desenvolvedor Java
+☕ Desenvolvedor Java <br>
 📃 Learning PHP
 
 A minha paixão pela programação cresce a cada dia.
