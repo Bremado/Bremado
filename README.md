@@ -1,16 +1,14 @@
-### Hi there 👋
+<h3> 🍕 &nbsp;ToddyDeveloper: </h3>
 
-<!--
-**022ToddyDeveloper/022ToddyDeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 👶 16 years
+- 🍝 Favorite Food: Seasoned Noodles
+- ☕ Java Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Skills
+
+![Node JS](https://img.shields.io/badge/%E2%98%95-Java-white?style=for-the-badge&color=gray)
+![Mongo DB](https://img.shields.io/badge/Mongo%20DB-80FF8A?style=for-the-badge&logo=mongodb&logoColor=white)
+![Mysql](https://img.shields.io/badge/MYSQL-FFA200?style=for-the-badge&logo=mysql&logoColor=white)
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/915684373355978753)](https://discord.com/users/915684373355978753)
