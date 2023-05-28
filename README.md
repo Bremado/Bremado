@@ -1,4 +1,4 @@
-# <h3> 🍕 &nbsp;ToddyDeveloper: </h3>
+# 🍕 &nbsp;ToddyDeveloper
 
 👶 16 anos <br>
 ☕ Desenvolvedor Java
