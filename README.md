@@ -8,9 +8,10 @@ A minha paixão pela programação cresce a cada dia.
 
 # Habilidades
 
-![Java](https://img.shields.io/badge/%E2%98%95-Java-white?style=for-the-badge&color=gray)
-![Mongo DB](https://img.shields.io/badge/Mongo%20DB-80FF8A?style=for-the-badge&logo=mongodb&logoColor=white)
-![Mysql](https://img.shields.io/badge/MYSQL-FFA200?style=for-the-badge&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-white?style=for-the-badge&color=gray)
+![Mongo DB](https://img.shields.io/badge/Mongo%20DB-80FF8A?style=for-the-badge)
+![Mysql](https://img.shields.io/badge/MYSQL-FFA200?style=for-the-badge)
+![Redis](https://img.shields.io/badge/Redis-FF5555?style=for-the-badge)
 
 # Discord
 
