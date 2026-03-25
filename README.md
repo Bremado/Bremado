@@ -11,7 +11,7 @@ Atualmente estudando e evoluindo em:
 
 ## Projeto em destaque
 
-### LothusPay Backend (case técnico)
+### LothusPay API (case técnico)
 Backend fintech em microsserviços com Java 17, Spring Boot, Gateway, JWT, Kafka e MongoDB.
 
 - Módulos: auth, wallet, payments, email, gateway e biblioteca de eventos
@@ -19,7 +19,7 @@ Backend fintech em microsserviços com Java 17, Spring Boot, Gateway, JWT, Kafka
 - API Gateway com rotas públicas e internas
 - Projeto funcional publicado como case técnico final
 
-> Repositório: [lothuspay-backend](https://github.com/SEU_USUARIO/lothuspay-backend)
+> Repositório: [lothuspay-api](https://github.com/Bremado/lothuspay-api)
 
 ## Stack
 
